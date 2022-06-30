@@ -1,3 +1,3 @@
-﻿# collections-python
+# collections-python
   - deque
   - namedtuple
